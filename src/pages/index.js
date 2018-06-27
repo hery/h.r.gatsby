@@ -1,5 +1,6 @@
 
 import React from "react";
+import Link from 'gatsby-link'
 
 export default ({ data }) => {
     return (
@@ -9,7 +10,7 @@ export default ({ data }) => {
                     console.debug(node)
                     return (
                         <div>
-                            <h3>{ node.node.frontmatter.title }<br />
+                            <h3><Link to='/'>{ node.node.frontmatter.title }</Link><br />
                             { node.node.frontmatter.date }</h3>
                             <div dangerouslySetInnerHTML={{ __html: node.node.html }} />
                         </div>
