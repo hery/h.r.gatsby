@@ -3,6 +3,7 @@ module.exports = {
         title: `Ola!`
     },
     plugins: [
+        `gatsby-plugin-glamor`,
         `gatsby-transformer-remark`,
         {
             resolve: `gatsby-plugin-typography`,
