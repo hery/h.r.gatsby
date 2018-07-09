@@ -1,6 +1,7 @@
 ---
 title: "On the Balance of Micro and Macro"
 date: "2018-06-24"
+published: false
 ---
 
 Lately, I've been obsessed with the balance between micro- and macro-thinking across various domains.
@@ -8,11 +9,11 @@ It's a concept that occurs everywhere in the world, think of micro- and macro-ec
 or physics at the micro- and macro-level, i.e. the invisible and visible respectively.
 Throughout this article, I'll be referring to them simply as micro and macro.
 
-My first explicit encounter with that concept occured as I was trying to improve at a game called League of Legends.
+<!-- My first explicit encounter with that concept occured as I was trying to improve at a game called League of Legends.
 
 ***basic explication of the game, macro across 3 lanes, micro over 1 lane***
 
-Roughly, one should first become acquainted with mechanical dexterity in order to gain control over a small part of the game (micro), and then learn how to transfer that advantage to the rest of the game (macro).
+Roughly, one should first become acquainted with mechanical dexterity in order to gain control over a small part of the game (micro), and then learn how to transfer that advantage to the rest of the game (macro). -->
 
 In my current mental representation of the balance between micro- and macro-thinking, it is acceptable to initially focus solely on the micro. However, once one gains a good enough understanding of the micro, by reaching a learning plateau for example, it is then a good time to shift focus to the macro. I'm no physics expert, though, so don't apply anything of what you read here to that domain.
 
@@ -31,7 +32,7 @@ I believe this is why yoga, at least its vinyasa style, is physically challengin
 The more physically challenging a flow is, the more physically exhausted it makes a yogi, and hopefully, the stiller her mind will be.
 And that is the beauty of yoga. It's accessible to all, in the way poses have variations of progressive intensity, which exhaust yogis regardless of their levels.
 
-***pictures of position variations***
+<!-- ***pictures of position variations*** -->
 
 To sum up these last few paragraphs, at a micro level, a yogi focuses on positions, and at a macro level, a yogi focuses on the entire flow, managing her energy to reach the best state for savasana.
 
